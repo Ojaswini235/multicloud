@@ -4,5 +4,5 @@ welcome to lw cloud
 <?php
 print `ifconfig`;
 ?>
-</pre>
 </br>
+</pre>
