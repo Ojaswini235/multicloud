@@ -1,8 +1,7 @@
 welcome to lw cloud
-<br/>
+</br>
 <pre>
 <?php
 print `ifconfig`;
 ?>
-</br>
 </pre>
